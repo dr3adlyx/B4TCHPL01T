@@ -7,6 +7,9 @@ V: A1.0.1
 Changes:
 Checked the Program for COVID-19!
 Its NEGATIVE!
+V: ALPHA 1.0.0
+Added Codepage 65001!
+Added a Logo!
 
 -----------------------------------------------------------------------------------
 
